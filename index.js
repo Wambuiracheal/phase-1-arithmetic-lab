@@ -1,13 +1,13 @@
 
 // Write your code here
 
-//multiply to give me 32
+//multiply to give me 62
 let num1 = 31;
 let num2 = 2;
 
 let multiply = num1 * num2;
 
-//greater integer than 10
+//greater integer than 0
 let random = Math.floor(Math.random() * 100) + 1;
 
 //mod that calculates remainder equal to 4
